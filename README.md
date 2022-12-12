@@ -1,4 +1,4 @@
-# yellow-link
+# yellow-franz
 Use french prefixes with Datenstrom Yellow
 
 ## How to add french prefixes
