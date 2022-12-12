@@ -3,7 +3,7 @@ Use french prefixes with Datenstrom Yellow
 
 ## How to add french prefixes
 
-Use the shortcut `franz`. Insert the text you whant to see in french prefixes. 
+Use the shortcut `franz`. Insert the text you want to see in french prefixes. 
 
 ## Examples
 
