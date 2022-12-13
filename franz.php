@@ -1,4 +1,6 @@
 <?php
+// https://github.com/PetersOtto/yellow-franz
+
 class Yellowfranz {
     const VERSION = "0.1.1";
     public $yellow;         // access to API
